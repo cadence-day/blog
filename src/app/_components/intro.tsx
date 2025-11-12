@@ -12,7 +12,7 @@ export function Intro() {
       </h3>
       
       {/* Desktop Navigation */}
-      <h4 className="hidden md:flex text-right text-sm font-normal tracking-widest text-white">
+      <h4 className="md:flex text-right text-sm font-normal tracking-widest text-white">
         <span className="mx-3"/>
         <Link href="/about" className="hover:underline">
           ABOUT
@@ -20,7 +20,7 @@ export function Intro() {
         <span className="mx-3"/>
       </h4>
       {/* Mobile Menu */}
-      <MobileMenu />
+      {/* <MobileMenu /> */}
     </section>
   );
 }
