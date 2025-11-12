@@ -8,6 +8,22 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
+export const metadata: Metadata = {
+  title: "CADENCE - Blog",
+  description: "A blog about design, development, and technology.",
+  openGraph: {
+    title: "CADENCE - Blog",
+    description: "A blog about design, development, and technology.",
+    images: [HOME_OG_IMAGE_URL],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "CADENCE - Blog",
+    description: "A blog about design, development, and technology.",
+    images: [HOME_OG_IMAGE_URL],
+  },
+};
+
 
 export default function RootLayout({
   children,
