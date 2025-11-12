@@ -7,11 +7,16 @@ export function Footer() {
       <Container>
         <div className="py-4 md:py-4 flex flex-col md:flex-row items-start justify-between gap-8">
           
-        {/* <div className="flex gap-6 text-xs  uppercase tracking-wider text-white">
-            <Link href="/about" className="hover:underline">About</Link>
-            <Link href="/work" className="hover:underline">Work</Link>
-            <Link href="/dashboard" className="hover:underline">PORTAL</Link>
-          </div> */}
+        <div className="flex gap-6 text-xs  uppercase tracking-wider text-white">
+            <Link
+              href="https://apps.apple.com/dk/app/cadence-day/id6745115112"
+              className="hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Cadence in the App Store
+            </Link>
+          </div>
           {/* Newsletter Subscription */}
           {/* <div className="flex-1 max-w-md">
             <h3 className="text-sm font-normal mb-4 uppercase tracking-wider">
