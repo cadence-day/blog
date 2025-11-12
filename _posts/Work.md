@@ -16,13 +16,13 @@ In the new reality that is rapidly approaching with the next wave of tools, ther
 
 At the same time it is without a doubt that we live in a moment of extraordinary opportunity. Current tools amplify our capabilities, and the barriers to creating and building have never been lower. The opportunities are real, but realizing them requires the ability to organize ourselves in time without the crude framework of the traditional workday. Cadence is our attempt to address this systemic issue.
 
-Most time tools or time trackers such as Toggle still reflect the old paradigm, they treat time as currency and the users in the somewhat mecahnical way, with the stopwatch being the central feature the tools is organized around.
+Most time tools or time trackers such as Toggle still reflect the old paradigm, they treat time as currency and the users in the somewhat mecahnical way, with the stopwatch being the central feature the tools is organized around. The main purpose for those tools seems to be the production of timesheets, their value proposition somehow is always about precise tracking of billable hours, so they exist to capture productive blocks and not the context around it.
 
 Cadence takes a different approach. It's built around a simple premise: productivity isn't the goal presence and balance is. By listening to time rather than controlling it we can find the natural cadence. You capture how our time actually unfolds in 30-minute blocks what we did, how it felt, and what it meant. Over time, we begin to see when we are most focused, when we need rest, when creative work flows naturally.
 
 The main goal is to understand our rhythm so we can orchestrate a life where everything that matters gets the time it deserves. The collapse of traditional work structures seems to be approaching, but perhaps it is not al that bad, perhaps it is an invitation to discover how we can respect the complexity of human energy and attention, to build systems that serve us rather than the other way around.
 
-In this new world that is approaching self-knowledge agency and self-reliance are essential. The opportunities are vast, but they require us to shape our own scaffolding and invent our own systems.
+In this new world that is approaching self-knowledge agency and self-reliance are essential. This new worlds is about the outcomes and not about the work hours, and therefore for the tools need to help us reveal the right time for working and creating when the focus is high and the attention can be fully controlled.
 
-We need to understand our rhythms, honor our needs, and build lives that reflect our values.
+The opportunities are vast, but they require us to shape our own scaffolding and invent our own systems.We need to understand our rhythms, honor our needs, and build lives that reflect our values.
 
