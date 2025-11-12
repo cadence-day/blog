@@ -1,6 +1,10 @@
 ---
-title: "Week"
-excerpt: "The seven-day week is so embedded in human civilization that we rarely pause to question it.On the closer look it becomes indisputable this ancient unit of time has shaped how humanity organizes itself more profoundly than any other temporal measure."
+title: "Why the week matters?"
+excerpt: "The seven-day week is so embedded in human civilization that we rarely pause to question it.
+
+On the closer look it becomes indisputable this ancient unit of time has shaped how humanity organizes itself more profoundly than any other temporal measure.
+
+Throughout human history, different cultures have grappled with time's nature."
 coverImage: "/assets/blog/week/cover.png"
 date: "2025-11-01T05:35:07.322Z"
 author:

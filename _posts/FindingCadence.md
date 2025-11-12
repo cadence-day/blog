@@ -1,6 +1,9 @@
 ---
-title: "Cadence"
-excerpt: "In that state of freedom and uncertainty, we began to realize that there already exists a natural rhythm unique to every person. It simply isn’t universally understood, and there’s a lack of tools to help uncover it through deliberate action."
+title: "Finding Cadence"
+excerpt: "The world today is constantly remaking itself, and many of us live in a state where nothing feels stable for long.
+
+Last October, collectively we — Andrea, Bruno, and Oleg — found ourselves in that exact place: the overwhelming space between what had ended and what had not yet begun.
+"
 coverImage: "/assets/blog/findingCadence/cover.png"
 date: "2025-11-05T05:35:07.322Z"
 author:

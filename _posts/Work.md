@@ -1,5 +1,5 @@
 ---
-title: "Work"
+title: "The future of work is personal"
 excerpt: "When we think about the future of work, the subjects of time and agency are central to the conversation. In our experience, workplaces in general do not take into consideration the personal natural rhythms of energy, focus, and creativity that vary between individuals and across days."
 coverImage: "/assets/blog/work/cover.png"
 date: "2025-11-11T05:35:07.322Z"

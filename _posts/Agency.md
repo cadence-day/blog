@@ -1,6 +1,8 @@
 ---
-title: "Agency"
+title: "Agency through action in time"
 excerpt: "
+Often it feels we need something called agency to make good use of this historical moment with all of the advanced tools and opportunities.
+
 Agency is complex, not something one can just have. It seems to grow through small, consistent actions, both in the realm of the individual and the realm of the collective. Over the last year at Cadence, we've been exploring what agency means for each person and for our team as a whole."
 coverImage: "/assets/blog/agency/cover.png"
 date: "2025-11-02T05:35:07.322Z"
