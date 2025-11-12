@@ -38,6 +38,14 @@ At the end of the day, to build a successful company one needs to find and alloc
 
 Our current view on building companies:
 
-Initially allocate a small amount of time each weekly cycle toward building a company and the product Watch the pattern emerge with the organic action of small amounts of hours Do that for about a month using all the mentioned tools Then start designing the time intentionally In about two months, the structure will start emerging, which will pull the individual and the team into a successful future
+Initially allocate a small amount of time each weekly cycle toward building a company and the product 
 
-The future is bright and the moment is bright. There are truly great opportunities all around us we just need to organize ourselves and seize the moment.
+Watch the pattern emerge with the organic action in the small amounts of time, watch the distribution of time, and the effort is naturally happening
+
+Do that for about a month using all the mentioned tools 
+
+Then start designing the time blocks intentionally finding the consistency in the weekly cycles
+
+In about two months, the structure will start emerging, which will pull the individual and the team into a successful future
+
+The future is bright and the moment is bright. There are truly unique opportunities all around us we just need to organize ourselves and seize the moment.
