@@ -9,17 +9,17 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CADENCE - Blog",
-  description: "A blog about design, development, and technology.",
+  title: "CADENCE",
+  description: "Find the cadence of your day. ",
   openGraph: {
-    title: "CADENCE - Blog",
-    description: "A blog about design, development, and technology.",
+    title: "CADENCE",
+    description: "Find the cadence of your day. ",
     images: [HOME_OG_IMAGE_URL],
   },
   twitter: {
     card: "summary_large_image",
-    title: "CADENCE - Blog",
-    description: "A blog about design, development, and technology.",
+    title: "CADENCE",
+    description: "Find the cadence of your day. ",
     images: [HOME_OG_IMAGE_URL],
   },
 };
