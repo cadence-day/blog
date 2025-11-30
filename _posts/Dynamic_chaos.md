@@ -10,7 +10,8 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-At times life feels completely exhilarating and exciting, usually it happens to me when there is a lot of changes and novel lifestyles being sampled. 
+
+At times life feels completely exhilarating and exciting, usually it happens to me when there is a lot of changes and novel lifestyles being sampled..
 
 At one point when I was living in New York and life was settling down into a very predictable routine, I began to wonder if it was possible to live in several places at the same time, to design a lifestyle where the traveling was built into the dynamic of life itself. That seemed exciting,moving between several worlds simultaneously, experiencing the life with the built-in unpredictability. 
 
