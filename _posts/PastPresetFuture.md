@@ -1,7 +1,7 @@
 ---
 title: "From the past to the future through the present"
 excerpt: "
-The present moment is the opportunity to steer one's story into the desired future. It is also worth recognizing the traces of the current circumstances in the past."
+The present moment is the opportunity to steer the story into the desired future. It is also worth recognizing the traces of the current circumstances in the past."
 coverImage: "/assets/blog/pastPresentFuture/cover.png"
 date: "2025-11-27T05:35:07.322Z"
 author:
