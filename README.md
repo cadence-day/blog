@@ -1,2 +1,2 @@
-Cadence blog
-[https](https://blog.cadence.day/)
+
+[Cadence blog](https://blog.cadence.day/)
