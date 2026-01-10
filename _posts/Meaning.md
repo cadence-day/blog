@@ -1,7 +1,7 @@
 ---
 title: "In search of meaning"
 excerpt: "
-Super lofty title, but underneath all the actions and commotions of life, the meaning lens becomes the most important aspect of everyday experience. Without meaning, the hours remain unfilled and time simply passes by without contributing to the experience of it."
+Underneath all the actions and commotions of life, the meaning lens becomes the most important aspect of everyday experience. Without meaning, the hours remain unfilled and time simply passes by without contributing to the experience of it."
 coverImage: "/assets/blog/meaning/cover.png"
 date: "2025-12-10T05:35:07.322Z"
 author:
@@ -11,7 +11,7 @@ ogImage:
   url: "/assets/blog/meaning/cover.jpg"
 ---
 
-Super lofty title, but underneath all the actions and commotions of life, the meaning lens becomes the most important aspect of everyday experience. Without meaning, the hours remain unfilled and time simply passes by without contributing to the experience of it. Meaning infuses everything with the quality essential to accessing all other states we deem essential: happiness, fulfillment, purpose.
+Underneath all the actions and commotions of life, the meaning lens becomes the most important aspect of everyday experience. Without meaning, the hours remain unfilled and time simply passes by without contributing to the experience of it. Meaning infuses everything with the quality essential to accessing all other states we deem essential: happiness, fulfillment, purpose.
 
 The search for meaning has always existed, and you see it expressed in culture in different ways. It rarely surfaces directly because it's one of those elusive topics people avoid discussing. They're difficult, so we choose silence instead, talking about more accessible subjects: who did what, and how they did it. I apologize for the slightly pretentious tone.
 
